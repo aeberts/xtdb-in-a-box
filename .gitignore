@@ -21,3 +21,7 @@ java/.classpath
 java/.project
 .settings/
 .vscode/
+.clj-kondo
+.idea/
+clj/.idea/
+*.iml

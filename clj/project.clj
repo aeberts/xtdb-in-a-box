@@ -4,8 +4,10 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
 
                  ;; required:
-                 [com.xtdb/xtdb-core "1.19.0"]
-                 [com.xtdb/xtdb-rocksdb "1.19.0"]
+                 [com.xtdb/xtdb-core "1.20.0"]
+                 [com.xtdb/xtdb-rocksdb "1.20.0"]
+
+                 [com.xtdb/xtdb-lmdb "1.20.0"]
 
                  ;; logging:
                  [org.clojure/tools.logging "1.1.0"]
